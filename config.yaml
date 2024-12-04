@@ -1,0 +1,5 @@
+salesforce_folder: "./salesforce_data"
+master_file: "./master_sheet.xlsx"
+export_folder: "./export"
+fuzzy_threshold: 80
+column_assignments: "./column_assignments.txt"
